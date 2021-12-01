@@ -1,0 +1,201 @@
+media_id,url,name
+1,http://nytimes.com,New York Times
+2,http://washingtonpost.com,Washington Post
+3,http://csmonitor.com,Christian Science Monitor
+4,http://www.usatoday.com,USA Today
+6,http://www.latimes.com/,LA Times
+7,http://www.nypost.com/,NY Post
+8,http://www.nydailynews.com/,Daily News
+9,http://www.chicagotribune.com/,Chicago Tribune
+10,http://www.chron.com/,houstonchronicle
+11,http://www.azcentral.com/arizonarepublic/,Arizona Republic
+12,http://www.dallasnews.com/,Dallas Morning News
+13,http://www.newsday.com/,Newsday
+14,http://www.sfgate.com/,sfchronicle
+15,https://www.bostonglobe.com/,The Boston Globe
+16,http://www.nj.com/starledger/,The Star Ledger
+17,http://www.ajc.com/,The Atlanta Journal Constitution
+18,http://www.philly.com/inquirer/,Philadelphia Inquirer
+19,http://www.startribune.com/,Star Tribune 
+20,http://www.plaindealer.com/,The Plain Dealer
+21,http://www.freep.com/apps/pbcs.dll/frontpage,Detroit Free Press
+22,http://www.tampabay.com/,Tampa Bay Times
+23,http://www.oregonlive.com/oregonian/,The Oregonian
+24,http://www.signonsandiego.com/,The San Diego Union Tribune
+25,http://www.ocregister.com/,The Orange County Register
+26,http://www.sacbee.com/,The Sacramento Bee
+27,http://www.stltoday.com/,St. Louis Post Dispatch
+28,http://www.miamiherald.com/,Miami Herald
+29,http://www.indystar.com/apps/pbcs.dll/frontpage,The Indianapolis Star
+30,http://www.kansascity.com/,The Kansas City Star
+31,http://www.denverpost.com/,The Denver Post
+32,http://www.rockymountainnews.com/,The Rocky Mountain News
+33,http://www.mysanantonio.com/,San Antonio Express News
+34,http://www.baltimoresun.com/,The Baltimore Sun
+35,http://www.mercurynews.com/,San Jose Mercury News
+36,http://www.jsonline.com/,Milwaukee Journal Sentinel 
+37,http://www.tampatrib.com/,The Tampa Tribune
+38,http://www.orlandosentinel.com/,The Orlando Sentinel
+39,http://www.sun-sentinel.com/,South Florida Sun-Sentinel
+40,http://seattletimes.nwsource.com/html/home/index.html,The Seattle Times
+41,http://www.dispatch.com/,The Columbus Dispatch
+42,http://www.courier-journal.com/apps/pbcs.dll/frontpage,The Courier Journal
+43,http://newsok.com/,The Oklahoman
+44,http://www.charlotte.com/,The Charlotte Observer
+45,http://www.post-gazette.com/,Pittsburgh Post-Gazette 
+47,http://news.enquirer.com/apps/pbcs.dll/frontpage,The Cincinnati Enquirer 
+50,http://www.detnews.com,The Detroit News 
+51,http://www.bostonherald.com/,Boston Herald
+52,http://www.twincities.com/,St.Paul Pioneer-Press 
+53,http://www.timesdispatch.com/cva/ric/times_dispatch.html,Richmond Times-Dispatch 
+54,http://www.omaha.com/,Omaha World-Herald 
+55,http://hamptonroads.com/pilotonline/,The Virginian Pilot 
+56,http://www2.arkansasonline.com/,Arkansas Democrat-Gazette 
+57,http://www.buffalonews.com/,The Buffalo News 
+58,http://www.newsobserver.com/,The News & Observer 
+59,http://www.courant.com/,The Hartford Courant 
+60,http://www.palmbeachpost.com/,The Palm Beach Post 
+61,http://www.tennessean.com/apps/pbcs.dll/frontpage,The Tennessean
+62,http://www.statesman.com/,Austin American-Statesman 
+63,http://www.pe.com/,The Press-Enterprise 
+64,http://www.lvrj.com/,Las Vegas Review-Journal 
+65,http://www.northjersey.com/,"The Record - Hackensack,NJ "
+66,http://www.contracostatimes.com/,Contra Costa Times 
+67,http://www.fresnobee.com/,The Fresno Bee 
+68,http://www.jacksonville.com/,The Florida Times-Union 
+69,http://www.democratandchronicle.com/apps/pbcs.dll/frontpage,Democrat and Chronicle 
+70,http://www.projo.com/,The Providence Journal 
+71,http://www.commercialappeal.com/,The Commercial Appeal
+72,http://www.desmoinesregister.com/apps/pbcs.dll/frontpage,Des Moines Register
+73,http://www.bhamnews.com/indexmain.html,The Birmingham News 
+74,http://www.dailynews.com/,Los Angeles Daily News
+75,http://www.app.com/apps/pbcs.dll/frontpage,Asbury Park Press 
+76,http://www.honoluluadvertiser.com/apps/pbcs.dll/frontpage,The Honolulu Advertiser 
+77,http://www.mlive.com/grpress/,The Grand Rapids Press 
+78,http://www.sltrib.com/,The Salt Lake Tribune 
+79,http://seattlepi.nwsource.com/,Seattle Post-Intelligencer
+80,http://www.toledoblade.com/,The Blade
+83,http://www.toledoblade.com,The Toledo Blade
+84,http://www.lohud.com/apps/pbcs.dll/frontpage,The Journal News 
+85,http://www.ohio.com,The Akron Beacon Journal 
+86,http://www.daytondailynews.com/,Dayton Daily News 
+87,http://www.impre.com/laopinion/home.php,La Opinion 
+88,http://www.tulsaworld.com/,Tulsa World 
+89,http://www.knoxnews.com/,The Knoxville News Sentinel 
+90,http://www.thenewstribune.com/,The News Tribune 
+91,http://www.heraldtribune.com/,Sarasota Herald-Tribune 
+93,http://www.azstarnet.com,Arizona Daily Star
+94,http://www.syracuse.com/poststandard/,The Post-Standard
+95,http://www.philly.com/dailynews/,Philadelphia Daily News 
+96,http://www.kentucky.com/,Lexington Herald-Leader 
+97,http://www.mcall.com/,Morning Call
+98,http://www.thestate.com/,thestate
+99,http://www.abqjournal.com/,Albuquerque Journal 
+100,http://www.news-journalonline.com/index.htm,The Daytona Beach News-Journal 
+101,http://www.washingtontimes.com/,Washington Times
+102,http://www.charleston.net/,The Post and Courier 
+103,http://www.eastvalleytribune.com/,East Valley Tribune 
+104,http://www.dailyherald.com/,"Daily Herald - Arlington Heights, IL"
+105,http://www.pittsburghlive.com/x/tribunereview/,"Tribune Review - Greensburg, PA"
+106,http://www.delawareonline.com/apps/pbcs.dll/frontpage,"The News Journal - New Castle, DA"
+108,http://www.wonkette.com,Wonkette Blog
+1,http://nytimes.com,New York Times
+2,http://washingtonpost.com,Washington Post
+3,http://csmonitor.com,Christian Science Monitor
+4,http://www.usatoday.com,USA Today
+6,http://www.latimes.com/,LA Times
+7,http://www.nypost.com/,NY Post
+8,http://www.nydailynews.com/,Daily News
+9,http://www.chicagotribune.com/,Chicago Tribune
+10,http://www.chron.com/,houstonchronicle
+11,http://www.azcentral.com/arizonarepublic/,Arizona Republic
+12,http://www.dallasnews.com/,Dallas Morning News
+13,http://www.newsday.com/,Newsday
+14,http://www.sfgate.com/,sfchronicle
+15,https://www.bostonglobe.com/,The Boston Globe
+16,http://www.nj.com/starledger/,The Star Ledger
+17,http://www.ajc.com/,The Atlanta Journal Constitution
+18,http://www.philly.com/inquirer/,Philadelphia Inquirer
+19,http://www.startribune.com/,Star Tribune 
+20,http://www.plaindealer.com/,The Plain Dealer
+21,http://www.freep.com/apps/pbcs.dll/frontpage,Detroit Free Press
+22,http://www.tampabay.com/,Tampa Bay Times
+23,http://www.oregonlive.com/oregonian/,The Oregonian
+24,http://www.signonsandiego.com/,The San Diego Union Tribune
+25,http://www.ocregister.com/,The Orange County Register
+26,http://www.sacbee.com/,The Sacramento Bee
+27,http://www.stltoday.com/,St. Louis Post Dispatch
+28,http://www.miamiherald.com/,Miami Herald
+29,http://www.indystar.com/apps/pbcs.dll/frontpage,The Indianapolis Star
+30,http://www.kansascity.com/,The Kansas City Star
+31,http://www.denverpost.com/,The Denver Post
+32,http://www.rockymountainnews.com/,The Rocky Mountain News
+33,http://www.mysanantonio.com/,San Antonio Express News
+34,http://www.baltimoresun.com/,The Baltimore Sun
+35,http://www.mercurynews.com/,San Jose Mercury News
+36,http://www.jsonline.com/,Milwaukee Journal Sentinel 
+37,http://www.tampatrib.com/,The Tampa Tribune
+38,http://www.orlandosentinel.com/,The Orlando Sentinel
+39,http://www.sun-sentinel.com/,South Florida Sun-Sentinel
+40,http://seattletimes.nwsource.com/html/home/index.html,The Seattle Times
+41,http://www.dispatch.com/,The Columbus Dispatch
+42,http://www.courier-journal.com/apps/pbcs.dll/frontpage,The Courier Journal
+43,http://newsok.com/,The Oklahoman
+44,http://www.charlotte.com/,The Charlotte Observer
+45,http://www.post-gazette.com/,Pittsburgh Post-Gazette 
+47,http://news.enquirer.com/apps/pbcs.dll/frontpage,The Cincinnati Enquirer 
+50,http://www.detnews.com,The Detroit News 
+51,http://www.bostonherald.com/,Boston Herald
+52,http://www.twincities.com/,St.Paul Pioneer-Press 
+53,http://www.timesdispatch.com/cva/ric/times_dispatch.html,Richmond Times-Dispatch 
+54,http://www.omaha.com/,Omaha World-Herald 
+55,http://hamptonroads.com/pilotonline/,The Virginian Pilot 
+56,http://www2.arkansasonline.com/,Arkansas Democrat-Gazette 
+57,http://www.buffalonews.com/,The Buffalo News 
+58,http://www.newsobserver.com/,The News & Observer 
+59,http://www.courant.com/,The Hartford Courant 
+60,http://www.palmbeachpost.com/,The Palm Beach Post 
+61,http://www.tennessean.com/apps/pbcs.dll/frontpage,The Tennessean
+62,http://www.statesman.com/,Austin American-Statesman 
+63,http://www.pe.com/,The Press-Enterprise 
+64,http://www.lvrj.com/,Las Vegas Review-Journal 
+65,http://www.northjersey.com/,"The Record - Hackensack,NJ "
+66,http://www.contracostatimes.com/,Contra Costa Times 
+67,http://www.fresnobee.com/,The Fresno Bee 
+68,http://www.jacksonville.com/,The Florida Times-Union 
+69,http://www.democratandchronicle.com/apps/pbcs.dll/frontpage,Democrat and Chronicle 
+70,http://www.projo.com/,The Providence Journal 
+71,http://www.commercialappeal.com/,The Commercial Appeal
+72,http://www.desmoinesregister.com/apps/pbcs.dll/frontpage,Des Moines Register
+73,http://www.bhamnews.com/indexmain.html,The Birmingham News 
+74,http://www.dailynews.com/,Los Angeles Daily News
+75,http://www.app.com/apps/pbcs.dll/frontpage,Asbury Park Press 
+76,http://www.honoluluadvertiser.com/apps/pbcs.dll/frontpage,The Honolulu Advertiser 
+77,http://www.mlive.com/grpress/,The Grand Rapids Press 
+78,http://www.sltrib.com/,The Salt Lake Tribune 
+79,http://seattlepi.nwsource.com/,Seattle Post-Intelligencer
+80,http://www.toledoblade.com/,The Blade
+83,http://www.toledoblade.com,The Toledo Blade
+84,http://www.lohud.com/apps/pbcs.dll/frontpage,The Journal News 
+85,http://www.ohio.com,The Akron Beacon Journal 
+86,http://www.daytondailynews.com/,Dayton Daily News 
+87,http://www.impre.com/laopinion/home.php,La Opinion 
+88,http://www.tulsaworld.com/,Tulsa World 
+89,http://www.knoxnews.com/,The Knoxville News Sentinel 
+90,http://www.thenewstribune.com/,The News Tribune 
+91,http://www.heraldtribune.com/,Sarasota Herald-Tribune 
+93,http://www.azstarnet.com,Arizona Daily Star
+94,http://www.syracuse.com/poststandard/,The Post-Standard
+95,http://www.philly.com/dailynews/,Philadelphia Daily News 
+96,http://www.kentucky.com/,Lexington Herald-Leader 
+97,http://www.mcall.com/,Morning Call
+98,http://www.thestate.com/,thestate
+99,http://www.abqjournal.com/,Albuquerque Journal 
+100,http://www.news-journalonline.com/index.htm,The Daytona Beach News-Journal 
+101,http://www.washingtontimes.com/,Washington Times
+102,http://www.charleston.net/,The Post and Courier 
+103,http://www.eastvalleytribune.com/,East Valley Tribune 
+104,http://www.dailyherald.com/,"Daily Herald - Arlington Heights, IL"
+105,http://www.pittsburghlive.com/x/tribunereview/,"Tribune Review - Greensburg, PA"
+106,http://www.delawareonline.com/apps/pbcs.dll/frontpage,"The News Journal - New Castle, DA"
+108,http://www.wonkette.com,Wonkette Blog

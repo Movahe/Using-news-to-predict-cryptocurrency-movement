@@ -1,0 +1,301 @@
+count,description,is_static,label,show_on_media,show_on_stories,tag,tag_set_label,tag_set_name,tag_sets_id,tags_id
+28535,,False,,,,readability-lxml-0.7,,extractor_version,1354,81092444
+28225,Story was tagged with 'nyt_labeller_v1.0.0',False,nyt_labeller_v1.0.0,False,True,nyt_labeller_v1.0.0,nyt_labels_version,nyt_labels_version,1964,9360669
+28225,Story was tagged with 'cliff_clavin_v2.4.1',False,cliff_clavin_v2.4.1,,,cliff_clavin_v2.4.1,geocoder_version,geocoder_version,1937,9696677
+20732,finances,False,finances,,,finances,nyt_labels,nyt_labels,1963,9360840
+13777,United States | A | US,False,United States,False,,geonames_6252001,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878461
+10925,computers and the internet,False,computers and the internet,,,computers and the internet,nyt_labels,nyt_labels,1963,9360839
+10238,BTC,False,BTC,,,BTC,cliff_organizations,cliff_organizations,2388,9432929
+9935,currency,False,currency,,,currency,nyt_labels,nyt_labels,1963,9361044
+4103,"prices (fares, fees and rates)",False,"prices (fares, fees and rates)",,,"prices (fares, fees and rates)",nyt_labels,nyt_labels,1963,9360996
+4025,BNB,False,BNB,,,BNB,cliff_organizations,cliff_organizations,2388,9723265
+3850,Bitcoin SV,False,Bitcoin SV,,,Bitcoin SV,cliff_people,cliff_people,2389,73261586
+3257,crypto,False,crypto,,,crypto,cliff_organizations,cliff_organizations,2388,9491867
+3093,stocks and bonds,False,stocks and bonds,,,stocks and bonds,nyt_labels,nyt_labels,1963,9361012
+2431,banks and banking,False,banks and banking,,,banks and banking,nyt_labels,nyt_labels,1963,9360943
+2177,Canada | A | CA,False,Canada,False,,geonames_6251999,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878548
+2106,computer software,False,computer software,,,computer software,nyt_labels,nyt_labels,1963,9360880
+1911,frauds and swindling,False,frauds and swindling,,,frauds and swindling,nyt_labels,nyt_labels,1963,9360947
+1798,Gerald Cotten,False,Gerald Cotten,,,Gerald Cotten,cliff_people,cliff_people,2389,31339291
+1784,politics and government,False,politics and government,,,politics and government,nyt_labels,nyt_labels,1963,9360836
+1754,Bitcoin,False,Bitcoin,,,Bitcoin,cliff_people,cliff_people,2389,9379742
+1724,IDEX,False,IDEX,,,IDEX,cliff_organizations,cliff_organizations,2388,10033740
+1401,Jennifer Robertson,False,Jennifer Robertson,,,Jennifer Robertson,cliff_people,cliff_people,2389,9501878
+1394,Google,False,Google,,,Google,cliff_organizations,cliff_organizations,2388,9363209
+1336,Facebook,False,Facebook,,,Facebook,cliff_organizations,cliff_organizations,2388,9362725
+1334,economic conditions and trends,False,economic conditions and trends,,,economic conditions and trends,nyt_labels,nyt_labels,1963,9360989
+1238,Crypto,False,Crypto,,,Crypto,cliff_organizations,cliff_organizations,2388,9369594
+1227,CRYPTO,False,CRYPTO,,,CRYPTO,cliff_organizations,cliff_organizations,2388,9914799
+1200,fiat,False,fiat,,,fiat,cliff_organizations,cliff_organizations,2388,9375774
+1177,Nova Scotia | A | 07 | CA,False,Nova Scotia,,,geonames_6091530,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8879860
+1158,suits and litigation,False,suits and litigation,,,suits and litigation,nyt_labels,nyt_labels,1963,9360860
+1152,credit,False,credit,,,credit,nyt_labels,nyt_labels,1963,9361030
+1142,Reuters,False,Reuters,,,Reuters,cliff_organizations,cliff_organizations,2388,9362267
+1130,California | A | CA | US,False,California,False,,geonames_5332921,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878533
+1102,crime and criminals,False,crime and criminals,,,crime and criminals,nyt_labels,nyt_labels,1963,9360912
+1070,New York | A | NY | US,False,New York,False,,geonames_5128638,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878463
+1043,People’s Republic of China | A | CN,False,People’s Republic of China,False,,geonames_1814991,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878478
+1034,QuadrigaCX,False,QuadrigaCX,,,QuadrigaCX,cliff_people,cliff_people,2389,31339295
+1017,Crohn,False,Crohn,,,Crohn,cliff_people,cliff_people,2389,9406850
+1004,Nova Scotia Supreme Court,False,Nova Scotia Supreme Court,,,Nova Scotia Supreme Court,cliff_organizations,cliff_organizations,2388,11022302
+992,Litecoin,False,Litecoin,,,Litecoin,cliff_people,cliff_people,2389,10533906
+991,Holo,False,Holo,,,Holo,cliff_people,cliff_people,2389,10049436
+971,Colorado | A | CO | US,False,Colorado,False,,geonames_5417618,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878696
+943,Halifax | P | 07 | CA,False,Halifax,,,geonames_6324729,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8880348
+929,USDC,False,USDC,,,USDC,cliff_organizations,cliff_organizations,2388,10798168
+885,LTC,False,LTC,,,LTC,cliff_organizations,cliff_organizations,2388,9483279
+845,United Kingdom of Great Britain and Northern Ireland | A | GB,False,United Kingdom of Great Britain and Northern Ireland,False,,geonames_2635167,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878466
+836,Republic of India | A | IN,False,Republic of India,False,,geonames_1269750,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878677
+822,Aurora | P | CO | US,False,Aurora,,,geonames_5412347,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8882066
+816,AOA,False,AOA,,,AOA,cliff_organizations,cliff_organizations,2388,9583792
+786,international trade and world market,False,international trade and world market,,,international trade and world market,nyt_labels,nyt_labels,1963,9360983
+766,Tom Hagen,False,Tom Hagen,,,Tom Hagen,cliff_people,cliff_people,2389,9701535
+748,futures and options trading,False,futures and options trading,,,futures and options trading,nyt_labels,nyt_labels,1963,9361222
+733,telephones and telecommunications,False,telephones and telecommunications,,,telephones and telecommunications,nyt_labels,nyt_labels,1963,9360991
+726,Kingdom of Norway | A | NO,False,Kingdom of Norway,False,,geonames_3144096,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8879521
+724,Donald Trump,False,Donald Trump,,,Donald Trump,cliff_people,cliff_people,2389,9362284
+662,AP,False,AP,,,AP,cliff_organizations,cliff_organizations,2388,9362920
+657,Samsung,False,Samsung,,,Samsung,cliff_organizations,cliff_organizations,2388,9368330
+653,,False,,,,date_invalid,,date_invalid,714,50741422
+636,SEC,False,SEC,,,SEC,cliff_organizations,cliff_organizations,2388,9364676
+634,bitcoin,False,bitcoin,,,bitcoin,cliff_people,cliff_people,2389,9412308
+626,Bloomberg,False,Bloomberg,,,Bloomberg,cliff_organizations,cliff_organizations,2388,9363116
+623,computer security,False,computer security,,,computer security,nyt_labels,nyt_labels,1963,9361172
+613,Quadriga,False,Quadriga,,,Quadriga,cliff_people,cliff_people,2389,35470394
+612,Oslo | P | 12 | NO,False,Oslo,False,,geonames_3143244,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8879527
+611,Congress,False,Congress,,,Congress,cliff_organizations,cliff_organizations,2388,9362962
+607,labor,False,labor,,,labor,nyt_labels,nyt_labels,1963,9360859
+595,Oslo County | A | 12 | NO,False,Oslo County,False,,geonames_3143242,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8879626
+593,kidnapping,False,kidnapping,,,kidnapping,nyt_labels,nyt_labels,1963,9361196
+592,Michael Wood,False,Michael Wood,,,Michael Wood,cliff_people,cliff_people,2389,9470936
+579,CNBC,False,CNBC,,,CNBC,cliff_organizations,cliff_organizations,2388,9368264
+573,Apple,False,Apple,,,Apple,cliff_organizations,cliff_organizations,2388,9367295
+570,England | A | ENG | GB,False,England,False,,geonames_6269131,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878467
+570,bankruptcies,False,bankruptcies,,,bankruptcies,nyt_labels,nyt_labels,1963,9361241
+564,Dogecoin,False,Dogecoin,,,Dogecoin,cliff_people,cliff_people,2389,9680942
+559,Anne-Elisabeth Falkevik Hagen,False,Anne-Elisabeth Falkevik Hagen,,,Anne-Elisabeth Falkevik Hagen,cliff_people,cliff_people,2389,118308977
+558,ICOs,False,ICOs,,,ICOs,cliff_organizations,cliff_organizations,2388,9414576
+558,Huobi,False,Huobi,,,Huobi,cliff_people,cliff_people,2389,9523535
+552,Microsoft,False,Microsoft,,,Microsoft,cliff_organizations,cliff_organizations,2388,9374723
+538,Nvidia,False,Nvidia,,,Nvidia,cliff_organizations,cliff_organizations,2388,9390153
+533,Commonwealth of Australia | A | AU,False,Commonwealth of Australia,False,,geonames_2077456,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878705
+520,"mergers, acquisitions and divestitures",False,"mergers, acquisitions and divestitures",,,"mergers, acquisitions and divestitures",nyt_labels,nyt_labels,1963,9361071
+516,fintech,False,fintech,,,fintech,cliff_organizations,cliff_organizations,2388,9367282
+507,Zilliqa,False,Zilliqa,,,Zilliqa,cliff_people,cliff_people,2389,29458826
+485,Washington | A | WA | US,False,Washington,False,,geonames_5815135,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878481
+475,Satoshi,False,Satoshi,,,Satoshi,cliff_people,cliff_people,2389,9994728
+467,British Columbia | A | 02 | CA,False,British Columbia,False,,geonames_5909050,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878554
+466,Hong Kong | P | 00 | HK,False,Hong Kong,False,,geonames_1819729,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878515
+462,cellular telephones,False,cellular telephones,,,cellular telephones,nyt_labels,nyt_labels,1963,9361026
+459,S&P,False,S&P,,,S&P,cliff_organizations,cliff_organizations,2388,9368263
+449,Trump,False,Trump,,,Trump,cliff_people,cliff_people,2389,9362872
+444,Jamie Dimon,False,Jamie Dimon,,,Jamie Dimon,cliff_people,cliff_people,2389,9379743
+441,ethics,False,ethics,,,ethics,nyt_labels,nyt_labels,1963,9360915
+432,London | P | ENG | GB,False,London,False,,geonames_2643743,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878473
+431,Ernst,False,Ernst,,,Ernst,cliff_organizations,cliff_organizations,2388,9458495
+430,crypto exchange,False,crypto exchange,,,crypto exchange,cliff_organizations,cliff_organizations,2388,9672794
+429,united states politics and government,False,united states politics and government,,,united states politics and government,nyt_labels,nyt_labels,1963,9360846
+425,Toronto | P | 08 | CA,False,Toronto,False,,geonames_6167865,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878529
+415,Ontario | A | 08 | CA,False,Ontario,False,,geonames_6093943,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878531
+414,medicine and health,False,medicine and health,,,medicine and health,nyt_labels,nyt_labels,1963,9360852
+413,Amazon,False,Amazon,,,Amazon,cliff_organizations,cliff_organizations,2388,9366535
+404,company reports,False,company reports,,,company reports,nyt_labels,nyt_labels,1963,9361050
+402,Interpol,False,Interpol,,,Interpol,cliff_organizations,cliff_organizations,2388,9363518
+399,Tommy Broeske,False,Tommy Broeske,,,Tommy Broeske,cliff_people,cliff_people,2389,118308976
+397,EU,False,EU,,,EU,cliff_organizations,cliff_organizations,2388,9363241
+396,CCN,False,CCN,,,CCN,cliff_organizations,cliff_organizations,2388,9632753
+395,corporations,False,corporations,,,corporations,nyt_labels,nyt_labels,1963,9361051
+391,Bolivarian Republic of Venezuela | A | VE,False,Bolivarian Republic of Venezuela,False,,geonames_3625428,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878519
+391,CIBC,False,CIBC,,,CIBC,cliff_organizations,cliff_organizations,2388,9429702
+388,Ernst,False,Ernst,,,Ernst,cliff_people,cliff_people,2389,9621560
+385,international relations,False,international relations,,,international relations,nyt_labels,nyt_labels,1963,9360934
+384,Bytom,False,Bytom,,,Bytom,cliff_organizations,cliff_organizations,2388,10949761
+383,JPMorgan,False,JPMorgan,,,JPMorgan,cliff_organizations,cliff_organizations,2388,9425441
+381,Japan | A | JP,False,Japan,False,,geonames_1861060,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878551
+381,law and legislation,False,law and legislation,,,law and legislation,nyt_labels,nyt_labels,1963,9360837
+377,privacy,False,privacy,,,privacy,nyt_labels,nyt_labels,1963,9360835
+367,Associated Press,False,Associated Press,,,Associated Press,cliff_organizations,cliff_organizations,2388,9362784
+367,Gerry,False,Gerry,,,Gerry,cliff_people,cliff_people,2389,9403244
+364,taxation,False,taxation,,,taxation,nyt_labels,nyt_labels,1963,9360882
+363,New York Times,False,New York Times,,,New York Times,cliff_organizations,cliff_organizations,2388,9362756
+357,Monero,False,Monero,,,Monero,cliff_people,cliff_people,2389,10399120
+355,European Union,False,European Union,,,European Union,cliff_organizations,cliff_organizations,2388,9362999
+353,CBC,False,CBC,,,CBC,cliff_organizations,cliff_organizations,2388,9369058
+343,Securities and Exchange Commission,False,Securities and Exchange Commission,,,Securities and Exchange Commission,cliff_organizations,cliff_organizations,2388,9366122
+336,advertising and marketing,False,advertising and marketing,,,advertising and marketing,nyt_labels,nyt_labels,1963,9360849
+333,San Francisco | P | CA | US,False,San Francisco,False,,geonames_5391959,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878536
+333,GPU,False,GPU,,,GPU,cliff_organizations,cliff_organizations,2388,9376612
+332,Svein Holden,False,Svein Holden,,,Svein Holden,cliff_people,cliff_people,2389,13494776
+324,State of New South Wales | A | 02 | AU,False,State of New South Wales,False,,geonames_2155400,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878624
+322,YouTube,False,YouTube,,,YouTube,cliff_organizations,cliff_organizations,2388,9364054
+321,Vancouver | P | 02 | CA,False,Vancouver,False,,geonames_6173331,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8879072
+318,no index terms from nytimes,False,no index terms from nytimes,,,no index terms from nytimes,nyt_labels,nyt_labels,1963,9360842
+312,robberies and thefts,False,robberies and thefts,,,robberies and thefts,nyt_labels,nyt_labels,1963,9361008
+310,CNN,False,CNN,,,CNN,cliff_organizations,cliff_organizations,2388,9362932
+309,Zcash,False,Zcash,,,Zcash,cliff_people,cliff_people,2389,9752914
+307,Ernst & Young,False,Ernst & Young,,,Ernst & Young,cliff_organizations,cliff_organizations,2388,9372749
+304,Beijing | P | 22 | CN,False,Beijing,False,,geonames_1816670,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878606
+304,ZEC,False,ZEC,,,ZEC,cliff_organizations,cliff_organizations,2388,9445535
+302,CPC,False,CPC,,,CPC,cliff_organizations,cliff_organizations,2388,9453147
+298,Texas | A | TX | US,False,Texas,False,,geonames_4736286,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878538
+298,IBM,False,IBM,,,IBM,cliff_organizations,cliff_organizations,2388,9376408
+297,JPMorgan Chase,False,JPMorgan Chase,,,JPMorgan Chase,cliff_organizations,cliff_organizations,2388,9379740
+294,Pai,False,Pai,,,Pai,cliff_people,cliff_people,2389,9404583
+291,drug abuse and traffic,False,drug abuse and traffic,,,drug abuse and traffic,nyt_labels,nyt_labels,1963,9360890
+286,biographical information,False,biographical information,,,biographical information,nyt_labels,nyt_labels,1963,9360968
+286,Mark Zuckerberg,False,Mark Zuckerberg,,,Mark Zuckerberg,cliff_people,cliff_people,2389,9365810
+284,Senate,False,Senate,,,Senate,cliff_organizations,cliff_organizations,2388,9362741
+283,NVIDIA,False,NVIDIA,,,NVIDIA,cliff_organizations,cliff_organizations,2388,9516364
+282,education and schools,False,education and schools,,,education and schools,nyt_labels,nyt_labels,1963,9360833
+281,Goldman Sachs,False,Goldman Sachs,,,Goldman Sachs,cliff_organizations,cliff_organizations,2388,9362730
+278,Maurice Chiasson,False,Maurice Chiasson,,,Maurice Chiasson,cliff_people,cliff_people,2389,131399010
+276,computer chips,False,computer chips,,,computer chips,nyt_labels,nyt_labels,1963,9361306
+274,Stratis,False,Stratis,,,Stratis,cliff_people,cliff_people,2389,9828535
+271,BTG,False,BTG,,,BTG,cliff_organizations,cliff_organizations,2388,9780197
+269,oil (petroleum) and gasoline,False,oil (petroleum) and gasoline,,,oil (petroleum) and gasoline,nyt_labels,nyt_labels,1963,9360884
+269,Satoshi Nakamoto,False,Satoshi Nakamoto,,,Satoshi Nakamoto,cliff_people,cliff_people,2389,9508223
+264,hostages,False,hostages,,,hostages,nyt_labels,nyt_labels,1963,9361201
+264,FBI,False,FBI,,,FBI,cliff_organizations,cliff_organizations,2388,9362961
+261,White House,False,White House,,,White House,cliff_organizations,cliff_organizations,2388,9362736
+261,Netflix,False,Netflix,,,Netflix,cliff_organizations,cliff_organizations,2388,9363592
+257,Nicolas Maduro,False,Nicolas Maduro,,,Nicolas Maduro,cliff_people,cliff_people,2389,9363158
+256,New Zealand | A | NZ,False,New Zealand,False,,geonames_2186224,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878868
+255,Republic of Korea | A | KR,False,Republic of Korea,False,,geonames_1835841,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878651
+254,PayPal,False,PayPal,,,PayPal,cliff_organizations,cliff_organizations,2388,9371491
+253,Europol,False,Europol,,,Europol,cliff_organizations,cliff_organizations,2388,9365393
+251,Los Angeles | P | CA | US,False,Los Angeles,False,,geonames_5368361,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878543
+251,ECC,False,ECC,,,ECC,cliff_organizations,cliff_organizations,2388,9371166
+250,news and news media,False,news and news media,,,news and news media,nyt_labels,nyt_labels,1963,9360885
+250,House,False,House,,,House,cliff_organizations,cliff_organizations,2388,9363164
+250,Huawei,False,Huawei,,,Huawei,cliff_organizations,cliff_organizations,2388,9378344
+250,SaluS,False,SaluS,,,SaluS,cliff_organizations,cliff_organizations,2388,45787873
+246,Kucoin,False,Kucoin,,,Kucoin,cliff_people,cliff_people,2389,34891991
+246,HempCoin,False,HempCoin,,,HempCoin,cliff_people,cliff_people,2389,42960269
+245,Cboe,False,Cboe,,,Cboe,cliff_organizations,cliff_organizations,2388,30871083
+242,Federative Republic of Brazil | A | BR,False,Federative Republic of Brazil,False,,geonames_3469034,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878586
+241,RCMP,False,RCMP,,,RCMP,cliff_organizations,cliff_organizations,2388,9370464
+239,Treasury,False,Treasury,,,Treasury,cliff_organizations,cliff_organizations,2388,9363650
+238,Washington Post,False,Washington Post,,,Washington Post,cliff_organizations,cliff_organizations,2388,9362798
+234,Swiss Confederation | A | CH,False,Swiss Confederation,False,,geonames_2658434,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8879101
+227,Ohio | A | OH | US,False,Ohio,False,,geonames_5165418,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878703
+227,terrorism,False,terrorism,,,terrorism,nyt_labels,nyt_labels,1963,9360900
+226,BBC,False,BBC,,,BBC,cliff_organizations,cliff_organizations,2388,9363065
+226,JP Morgan,False,JP Morgan,,,JP Morgan,cliff_organizations,cliff_organizations,2388,9382263
+224,Niassa Province | A | 07 | MZ,False,Niassa Province,,,geonames_1030006,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8881322
+221,Wall Street Journal,False,Wall Street Journal,,,Wall Street Journal,cliff_organizations,cliff_organizations,2388,9366539
+221,BCH,False,BCH,,,BCH,cliff_organizations,cliff_organizations,2388,9579208
+220,Republic of South Africa | A | ZA,False,Republic of South Africa,False,,geonames_953987,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878908
+220,murders and attempted murders,False,murders and attempted murders,,,murders and attempted murders,nyt_labels,nyt_labels,1963,9360982
+219,Florida | A | FL | US,False,Florida,False,,geonames_4155751,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878477
+218,Jensen Huang,False,Jensen Huang,,,Jensen Huang,cliff_people,cliff_people,2389,9640015
+215,Republic of Singapore | A | SG,False,Republic of Singapore,False,,geonames_1880251,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878605
+215,Supreme Court,False,Supreme Court,,,Supreme Court,cliff_organizations,cliff_organizations,2388,9362719
+215,Nasdaq,False,Nasdaq,,,Nasdaq,cliff_organizations,cliff_organizations,2388,9374301
+212,Beijing Shi | A | 22 | CN,False,Beijing Shi,False,,geonames_2038349,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878603
+211,IMF,False,IMF,,,IMF,cliff_organizations,cliff_organizations,2388,9367709
+211,Mercatox,False,Mercatox,,,Mercatox,cliff_organizations,cliff_organizations,2388,31303008
+209,Tesla,False,Tesla,,,Tesla,cliff_people,cliff_people,2389,9369660
+208,Region Hovedstaden | A | 17 | DK,False,Region Hovedstaden,False,,geonames_6418538,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8879144
+208,Copenhagen | P | 17 | DK,False,Copenhagen,False,,geonames_2618425,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8879158
+208,VRC,False,VRC,,,VRC,cliff_organizations,cliff_organizations,2388,9996519
+207,AMD,False,AMD,,,AMD,cliff_organizations,cliff_organizations,2388,9467787
+204,mines and mining,False,mines and mining,,,mines and mining,nyt_labels,nyt_labels,1963,9361146
+200,U.S. Securities and Exchange Commission,False,U.S. Securities and Exchange Commission,,,U.S. Securities and Exchange Commission,cliff_organizations,cliff_organizations,2388,9382709
+200,COSS,False,COSS,,,COSS,cliff_people,cliff_people,2389,10018671
+200,PIVX,False,PIVX,,,PIVX,cliff_people,cliff_people,2389,31321880
+198,IOC,False,IOC,,,IOC,cliff_organizations,cliff_organizations,2388,9365361
+197,New Jersey | A | NJ | US,False,New Jersey,False,,geonames_5101760,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878484
+197,Hong Kong Special Administrative Region | A | HK,False,Hong Kong Special Administrative Region,False,,geonames_1819730,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8879239
+196,Alberta | A | 01 | CA,False,Alberta,False,,geonames_5883102,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8879102
+196,Intel,False,Intel,,,Intel,cliff_organizations,cliff_organizations,2388,9367220
+195,embargoes and economic sanctions,False,embargoes and economic sanctions,,,embargoes and economic sanctions,nyt_labels,nyt_labels,1963,9361036
+190,"armament, defense and military forces",False,"armament, defense and military forces",,,"armament, defense and military forces",nyt_labels,nyt_labels,1963,9360868
+190,CoinDesk,False,CoinDesk,,,CoinDesk,cliff_organizations,cliff_organizations,2388,9389491
+190,Gulden,False,Gulden,,,Gulden,cliff_people,cliff_people,2389,9586742
+189,New York City | P | NY | US,False,New York City,False,,geonames_5128581,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878486
+188,Jaipur | P | 24 | IN,False,Jaipur,,,geonames_1269515,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8884291
+185,HTC,False,HTC,,,HTC,cliff_organizations,cliff_organizations,2388,9387816
+183,Russian Federation | A | RU,False,Russian Federation,False,,geonames_2017370,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878645
+181,New York Stock Exchange,False,New York Stock Exchange,,,New York Stock Exchange,cliff_organizations,cliff_organizations,2388,9367281
+181,NTB,False,NTB,,,NTB,cliff_organizations,cliff_organizations,2388,9631867
+180,elections,False,elections,,,elections,nyt_labels,nyt_labels,1963,9360851
+180,CME Group,False,CME Group,,,CME Group,cliff_organizations,cliff_organizations,2388,9612147
+178,united states international relations,False,united states international relations,,,united states international relations,nyt_labels,nyt_labels,1963,9360933
+176,DEX,False,DEX,,,DEX,cliff_organizations,cliff_organizations,2388,10297757
+172,Davos | P | GR | CH,False,Davos,,,geonames_2661039,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8882296
+172,recordings (audio),False,recordings (audio),,,recordings (audio),nyt_labels,nyt_labels,1963,9360856
+171,NYSE,False,NYSE,,,NYSE,cliff_organizations,cliff_organizations,2388,9369611
+171,Cardano,False,Cardano,,,Cardano,cliff_people,cliff_people,2389,18599506
+171,Cryptopia,False,Cryptopia,,,Cryptopia,cliff_people,cliff_people,2389,43641331
+170,colleges and universities,False,colleges and universities,,,colleges and universities,nyt_labels,nyt_labels,1963,9360861
+170,Cointelegraph,False,Cointelegraph,,,Cointelegraph,cliff_organizations,cliff_organizations,2388,28724723
+168,securities and commodities violations,False,securities and commodities violations,,,securities and commodities violations,nyt_labels,nyt_labels,1963,9361223
+164,UN,False,UN,,,UN,cliff_organizations,cliff_organizations,2388,9362786
+164,NVIDIA Corporation,False,NVIDIA Corporation,,,NVIDIA Corporation,cliff_organizations,cliff_organizations,2388,10018398
+163,Xriba,False,Xriba,,,Xriba,cliff_people,cliff_people,2389,64592196
+162,Tokyo | P | 40 | JP,False,Tokyo,False,,geonames_1850147,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878679
+162,Olsen,False,Olsen,,,Olsen,cliff_people,cliff_people,2389,9555040
+161,CoinMarketCap,False,CoinMarketCap,,,CoinMarketCap,cliff_organizations,cliff_organizations,2388,9965610
+157,regulation and deregulation of industry,False,regulation and deregulation of industry,,,regulation and deregulation of industry,nyt_labels,nyt_labels,1963,9361160
+157,Labor Party,False,Labor Party,,,Labor Party,cliff_organizations,cliff_organizations,2388,9384247
+157,Anne-Elizabeth Falkevik Hagen,False,Anne-Elizabeth Falkevik Hagen,,,Anne-Elizabeth Falkevik Hagen,cliff_people,cliff_people,2389,118492344
+156,sales,False,sales,,,sales,nyt_labels,nyt_labels,1963,9360995
+156,Anders Behring Breivik,False,Anders Behring Breivik,,,Anders Behring Breivik,cliff_people,cliff_people,2389,9363828
+156,Warren Buffett,False,Warren Buffett,,,Warren Buffett,cliff_people,cliff_people,2389,9375621
+156,Jack Dorsey,False,Jack Dorsey,,,Jack Dorsey,cliff_people,cliff_people,2389,9376820
+156,Glenn Hartmann-Hansen,False,Glenn Hartmann-Hansen,,,Glenn Hartmann-Hansen,cliff_people,cliff_people,2389,118492347
+154,computer and video games,False,computer and video games,,,computer and video games,nyt_labels,nyt_labels,1963,9360971
+154,ABCC,False,ABCC,,,ABCC,cliff_organizations,cliff_organizations,2388,9593979
+153,CoinDesk,False,CoinDesk,,,CoinDesk,cliff_people,cliff_people,2389,9495751
+150,State of Rājasthān | A | 24 | IN,False,State of Rājasthān,,,geonames_1258899,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8883719
+150,Raider Osen,False,Raider Osen,,,Raider Osen,cliff_people,cliff_people,2389,118492345
+150,Anne-Elizabeth Hagen,False,Anne-Elizabeth Hagen,,,Anne-Elizabeth Hagen,cliff_people,cliff_people,2389,118492346
+148,post,False,post,,,post,cliff_organizations,cliff_organizations,2388,9374392
+147,McInnes Cooper,False,McInnes Cooper,,,McInnes Cooper,cliff_people,cliff_people,2389,22506848
+146,Islamic Republic of Iran | A | IR,False,Islamic Republic of Iran,False,,geonames_130758,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878503
+146,Democratic People’s Republic of Korea | A | KP,False,Democratic People’s Republic of Korea,False,,geonames_1873107,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878619
+146,Kanton Graubünden | A | GR | CH,False,Kanton Graubünden,,,geonames_2660522,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8884436
+146,media,False,media,,,media,nyt_labels,nyt_labels,1963,9360911
+146,NASDAQ,False,NASDAQ,,,NASDAQ,cliff_organizations,cliff_organizations,2388,9371573
+146,IoT,False,IoT,,,IoT,cliff_organizations,cliff_organizations,2388,9392230
+145,Republic of France | A | FR,False,Republic of France,False,,geonames_3017382,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878470
+145,Verdens Gang,False,Verdens Gang,,,Verdens Gang,cliff_organizations,cliff_organizations,2388,9562582
+143,Canterbury | A | E9 | NZ,False,Canterbury,,,geonames_2192628,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8882652
+143,Christchurch | P | E9 | NZ,False,Christchurch,,,geonames_2192362,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8886132
+142,sex crimes,False,sex crimes,,,sex crimes,nyt_labels,nyt_labels,1963,9360922
+142,AT&T,False,AT&T,,,AT&T,cliff_organizations,cliff_organizations,2388,9365718
+142,Fed,False,Fed,,,Fed,cliff_organizations,cliff_organizations,2388,9367877
+142,Digital,False,Digital,,,Digital,cliff_organizations,cliff_organizations,2388,9372100
+142,Quadriga,False,Quadriga,,,Quadriga,cliff_organizations,cliff_organizations,2388,29999493
+141,advertising,False,advertising,,,advertising,nyt_labels,nyt_labels,1963,9360908
+140,children and youth,False,children and youth,,,children and youth,nyt_labels,nyt_labels,1963,9360981
+139,Kingdom of Spain | A | ES,False,Kingdom of Spain,False,,geonames_2510769,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878587
+138,Virginia | A | VA | US,False,Virginia,False,,geonames_6254928,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878547
+138,Dow Jones,False,Dow Jones,,,Dow Jones,cliff_organizations,cliff_organizations,2388,9367708
+138,Federal Reserve,False,Federal Reserve,,,Federal Reserve,cliff_organizations,cliff_organizations,2388,9368261
+138,Changpeng Zhao,False,Changpeng Zhao,,,Changpeng Zhao,cliff_people,cliff_people,2389,27846440
+137,Pennsylvania | A | PA | US,False,Pennsylvania,False,,geonames_6254927,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878566
+137,ANC,False,ANC,,,ANC,cliff_organizations,cliff_organizations,2388,9369161
+137,MIT,False,MIT,,,MIT,cliff_organizations,cliff_organizations,2388,9372787
+136,Trump administration,False,Trump administration,,,Trump administration,cliff_organizations,cliff_organizations,2388,9362998
+136,Mati Greenspan,False,Mati Greenspan,,,Mati Greenspan,cliff_people,cliff_people,2389,9640018
+135,Umar Farooq,False,Umar Farooq,,,Umar Farooq,cliff_people,cliff_people,2389,9999197
+134,Security Council,False,Security Council,,,Security Council,cliff_organizations,cliff_organizations,2388,9367309
+133,Akershus fylke | A | 01 | NO,False,Akershus fylke,,,geonames_3163480,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8892122
+133,CFTC,False,CFTC,,,CFTC,cliff_organizations,cliff_organizations,2388,9443517
+132,foreign investments,False,foreign investments,,,foreign investments,nyt_labels,nyt_labels,1963,9361185
+132,Global News,False,Global News,,,Global News,cliff_organizations,cliff_organizations,2388,9482387
+131,Walmart,False,Walmart,,,Walmart,cliff_organizations,cliff_organizations,2388,9363718
+131,IRS,False,IRS,,,IRS,cliff_organizations,cliff_organizations,2388,9371486
+131,Rob Dawson,False,Rob Dawson,,,Rob Dawson,cliff_people,cliff_people,2389,28103375
+131,Cox & Palmer,False,Cox & Palmer,,,Cox & Palmer,cliff_organizations,cliff_organizations,2388,30800049
+130,legal profession,False,legal profession,,,legal profession,nyt_labels,nyt_labels,1963,9361213
+130,Max Galka,False,Max Galka,,,Max Galka,cliff_people,cliff_people,2389,9695565
+128,Caracas | P | 25 | VE,False,Caracas,False,,geonames_3646738,mc-geocoder@media.mit.edu,mc-geocoder@media.mit.edu,1011,8878521
+128,Michael MacDonald,False,Michael MacDonald,,,Michael MacDonald,cliff_people,cliff_people,2389,10884794
+127,International Monetary Fund,False,International Monetary Fund,,,International Monetary Fund,cliff_organizations,cliff_organizations,2388,9363248
+127,Fintech,False,Fintech,,,Fintech,cliff_organizations,cliff_organizations,2388,9419206
+127,INB,False,INB,,,INB,cliff_organizations,cliff_organizations,2388,10196824
+125,ABC,False,ABC,,,ABC,cliff_organizations,cliff_organizations,2388,9362473
+125,Crypto Exchange,False,Crypto Exchange,,,Crypto Exchange,cliff_organizations,cliff_organizations,2388,29509444
+124,Harvard,False,Harvard,,,Harvard,cliff_organizations,cliff_organizations,2388,9362285
