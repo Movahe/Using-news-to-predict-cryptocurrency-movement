@@ -38,7 +38,7 @@ from nltk.corpus import wordnet as wn
 
 __version__ = "1.0"
 __programname__ = "ML_TEXT"
-__emailaddress__ = "pman3@uic.edu"
+__emailaddress__ = ""
 
 darkthemeavailable = 1
 try:
