@@ -2,13 +2,8 @@
 # | Machine Learning with TEXT DATA                                            |
 # +----------------------------------------------------------------------------+
 # |                                                                            |
-# |                                                          XX       XX       |
-# |                                                         XXXX     XXXX      |
-# |                                                        XX  XX   XX  XX     |
-# |                                                       XX    XX XX    XX    |
-# |                                                      XX      XXX      XX   |
-# | Author: Slamming Squad                              XX        X        XX  |
-# | First created by: Peihong Man. All rights reserved.                        |
+# |                                                                            |
+# |                                                                            |
 # +----------------------------------------------------------------------------+
 
 import csv
